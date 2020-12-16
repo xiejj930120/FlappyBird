@@ -1,4 +1,4 @@
-package com.kingyu.flappybird.game;
+package com.kingyu.flappybird.component;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
@@ -7,7 +7,7 @@ import com.kingyu.flappybird.util.Constant;
 import com.kingyu.flappybird.util.GameUtil;
 
 /**
- * 游戏背景类，绘制游戏背景的内容都在此类
+ * 游戏背景类，实现游戏背景的绘制
  * 
  * @author Kingyu
  *
